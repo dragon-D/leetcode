@@ -1,2 +1,2 @@
 # leetcode
-leetcode 的代码
+leetcode 日常练习代码
